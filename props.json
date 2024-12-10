@@ -1,0 +1,7 @@
+{
+    "configurator_support": true,
+    "core": {
+        "id": "b906687c-b0d6-4aff-8ba6-ae809894d659",
+        "name": "mtb-pwrconv"
+    }
+}
